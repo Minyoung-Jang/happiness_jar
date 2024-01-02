@@ -1,3 +1,3 @@
-# happiness_jar
+# [월간 MINY] 행복저금통 어플리케이션
 
-A new Flutter project.
+### 2024년 1월 토이프로젝트
